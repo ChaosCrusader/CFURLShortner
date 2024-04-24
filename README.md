@@ -9,7 +9,7 @@ A minimilistic URL shortener created using Cloudflare Workers and KV.
 ![Home Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/ff9ec136-c896-41bc-a62f-df49235aa618)
 
 - **Forward Page**
-![Forward Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/7a7dce32-5772-4b33-8fba-9cca6267b539)
+![Forward Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/34120a97-c78d-4950-a66a-a4f615f6f697)
 </details>
 
 ## Cloudflare Setup
