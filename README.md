@@ -1,9 +1,11 @@
 # Cloudflare URL Shortener
 A URL shortener created using Cloudflare Workers and KV.
 
-## Setup
+## Cloudflare Setup
+<details>
+  <summary>Click Me</summary>
 
-### Creating a Namespace in Cloudflare Workers KV
+   ### Creating a Namespace in Cloudflare Workers KV
 
 1. Go to Cloudflare Workers KV and create a namespace.
    
@@ -26,3 +28,11 @@ A URL shortener created using Cloudflare Workers and KV.
    ![Set KV Namespace](https://github.com/ChaosCrusader/URLShortner/assets/105801260/372cbdf4-b82d-4461-ad34-81f9fecae692)
 
 5. Save and Deploy your changes.
+</details>
+
+## Credits
+- This project is a lightweight code adaptation from [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker).
+
+## License
+- This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ChaosCrusader/CFURLShortner/blob/main/LICENSE)
+
