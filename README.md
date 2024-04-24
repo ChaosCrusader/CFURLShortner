@@ -1,20 +1,28 @@
-# Cloudflare URL Shortner
-A URL Shortner Created Using Cloudflare Workers + KV
+# Cloudflare URL Shortener
+A URL shortener created using Cloudflare Workers and KV.
 
 ## Setup
 
-- Go to Cloudflare Workers KV and create a namespace.
-![image](https://github.com/ChaosCrusader/URLShortner/assets/105801260/e758b1fa-6017-428b-9e64-250369642950)
+### Creating a Namespace in Cloudflare Workers KV
 
-- Create a Worker & paste [workers.js](https://github.com/ChaosCrusader/CFURLShortner/blob/main/workers.js)
+1. Go to Cloudflare Workers KV and create a namespace.
+   
+   ![Create a Namespace](https://github.com/ChaosCrusader/URLShortner/assets/105801260/e758b1fa-6017-428b-9e64-250369642950)
 
-## KV Namespace Bindlings
+### Creating a Worker
 
-- Go to Workers/Settings
-![image](https://github.com/ChaosCrusader/URLShortner/assets/105801260/db773367-c2ff-4248-8b14-e9f74fe371c6)
+2. Create a Worker and paste the content of [workers.js](https://github.com/ChaosCrusader/CFURLShortner/blob/main/workers.js).
+   
+   ![Create a Worker](https://github.com/ChaosCrusader/URLShortner/assets/105801260/886b450b-b735-41d7-bc16-59f647003670)
 
-- Where Variable name should set as **LINKS** and KV Namespace is the namespace you just created in the first step.
-![image](https://github.com/ChaosCrusader/URLShortner/assets/105801260/372cbdf4-b82d-4461-ad34-81f9fecae692)
+### KV Namespace Bindings
 
-- Save & Deploy
+3. Go to Workers Settings.
+   
+   ![Workers Settings](https://github.com/ChaosCrusader/URLShortner/assets/105801260/db773367-c2ff-4248-8b14-e9f74fe371c6)
 
+4. Set the Variable name as **LINKS** and the KV Namespace to the namespace you created in the first step.
+   
+   ![Set KV Namespace](https://github.com/ChaosCrusader/URLShortner/assets/105801260/372cbdf4-b82d-4461-ad34-81f9fecae692)
+
+5. Save and Deploy your changes.
