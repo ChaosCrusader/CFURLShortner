@@ -6,10 +6,10 @@ A minimilistic URL shortener created using Cloudflare Workers and KV.
   <summary>Click Me</summary>
 
 - **Home Page**
-![Home Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/9ab40f07-511e-4821-9da2-95f08d8e9248)
+![Home Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/ff9ec136-c896-41bc-a62f-df49235aa618)
 
 - **Forward Page**
-![Forward Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/41869621-c0f5-4882-ad93-c3b575ffac32)
+![Forward Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/7a7dce32-5772-4b33-8fba-9cca6267b539)
 </details>
 
 ## Cloudflare Setup
