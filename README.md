@@ -6,7 +6,7 @@ A URL Shortner Created Using Cloudflare Workers + KV
 - Go to Cloudflare Workers KV and create a namespace.
 ![image](https://github.com/ChaosCrusader/URLShortner/assets/105801260/e758b1fa-6017-428b-9e64-250369642950)
 
-- Create a Worker & paste index.js
+- Create a Worker & paste [workers.js](https://raw.githubusercontent.com/ChaosCrusader/CFURLShortner/main/workers.js)
 
 ## KV Namespace Bindlings
 
