@@ -1,5 +1,16 @@
 # Cloudflare URL Shortener
-A URL shortener created using Cloudflare Workers and KV.
+A minimilistic URL shortener created using Cloudflare Workers and KV.
+
+## Preview
+<details>
+  <summary>Click Me</summary>
+
+- **Home Page**
+![Home Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/9ab40f07-511e-4821-9da2-95f08d8e9248)
+
+- **Forward Page**
+![Forward Page](https://github.com/ChaosCrusader/CFURLShortner/assets/105801260/41869621-c0f5-4882-ad93-c3b575ffac32)
+</details>
 
 ## Cloudflare Setup
 <details>
